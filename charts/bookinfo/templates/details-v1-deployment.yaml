@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: details
-        image: quay.io/jackzzj/examples-bookinfo-details-v1:1.8.0
+        image: docker.io/istio/examples-bookinfo-details-v1:1.15.0
         imagePullPolicy: IfNotPresent
         ports:
         - name: http

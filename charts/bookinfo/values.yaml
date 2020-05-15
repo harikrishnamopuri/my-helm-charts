@@ -1,5 +1,5 @@
-# Default values for bookinfo.
-imagePullSecrets: quay-regcred
+# Default values for bookinfo
+imagePullSecrets: []
 
 productpage:
   replicas: 1

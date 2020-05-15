@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: productpage
-        image: quay.io/jackzzj/examples-bookinfo-productpage-v1:1.8.0
+        image: docker.io/istio/examples-bookinfo-productpage-v1:1.15.0
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
