@@ -40,6 +40,22 @@ entries:
     version: 0.1.0
   bookinfo:
   - apiVersion: v1
+    created: "2020-05-15T11:10:01.72618664Z"
+    description: Helm chart for Istio demo bookinfo
+    digest: 3593a6607ddfab57a57c743de17453b85b8b188626a2ca199a222bff52c14c01
+    home: https://github.com/jackzzj/bookinfo
+    kubeVersion: '>=1.10.0-r0'
+    maintainers:
+    - email: ceres0503@icloud.com
+      name: Kaijie Zhan
+      url: https://github.com/jackzzj
+    name: bookinfo
+    sources:
+    - https://github.com/jackzzj/bookinfo
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/bookinfo-0.1.4/bookinfo-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
     created: "2020-05-15T10:55:58.075702144Z"
     description: Helm chart for Istio demo bookinfo
     digest: 434ff8cfa8c378be6a2703eeffaac7230efb05166d763a52093837ec36ac8327
