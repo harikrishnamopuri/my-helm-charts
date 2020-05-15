@@ -41,5 +41,3 @@ spec:
             port: 9080
           initialDelaySeconds: 5
           periodSeconds: 5
-      imagePullSecrets:
-      - name: {{ .Values.imagePullSecrets }}
