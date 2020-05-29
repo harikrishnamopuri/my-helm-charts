@@ -119,4 +119,34 @@ entries:
     urls:
     - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/bookinfo-0.1.2/bookinfo-0.1.2.tgz
     version: 0.1.2
+  deployment-2020.05.29-DEV01:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-29T12:54:32.983704373Z"
+    description: A Helm chart for Kubernetes
+    digest: d3317c292b760e71c8b34e46684535b97bcd538c959469998fb673e3bdf00bba
+    name: deployment-2020.05.29-DEV01
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/deployment-2020.05.29-DEV01-0.1.0/deployment-2020.05.29-DEV01-0.1.0.tgz
+    version: 0.1.0
+  deployment-2020.05.29-DEV02:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-29T12:54:33.054667235Z"
+    description: A Helm chart for Kubernetes
+    digest: bbec76f6e2c2d311f95953da53ccd5f29591b84e7837fe2d78db11b3df10aacb
+    name: deployment-2020.05.29-DEV02
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/deployment-2020.05.29-DEV02-0.1.0/deployment-2020.05.29-DEV02-0.1.0.tgz
+    version: 0.1.0
+  deployment-2020.05.29-DEV03:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-29T12:54:33.127058322Z"
+    description: A Helm chart for Kubernetes
+    digest: 5df65702a5d59a4be2cb4e1ac90129e26e9fdf377451487a159d8d9c4c0ec25a
+    name: deployment-2020.05.29-DEV03
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/deployment-2020.05.29-DEV03-0.1.0/deployment-2020.05.29-DEV03-0.1.0.tgz
+    version: 0.1.0
 generated: "2020-05-15T03:39:55.420152363Z"
