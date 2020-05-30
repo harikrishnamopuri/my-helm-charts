@@ -122,6 +122,15 @@ entries:
   deployment-2020.05.29-DEV01:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2020-05-30T11:58:14.921993003Z"
+    description: A Helm chart for Kubernetes
+    digest: 9c881e0d733f33d66d598a743eed585d49ae6e5e31f78bdada2364e20226c28c
+    name: deployment-2020.05.29-DEV01
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/deployment-2020.05.29-DEV01-2020.05.29-DEV01/deployment-2020.05.29-DEV01-2020.05.29-DEV01.tgz
+    version: 2020.05.29-DEV01
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2020-05-29T12:54:32.983704373Z"
     description: A Helm chart for Kubernetes
     digest: d3317c292b760e71c8b34e46684535b97bcd538c959469998fb673e3bdf00bba
