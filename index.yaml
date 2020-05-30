@@ -161,6 +161,15 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2020-05-30T12:07:54.227988198Z"
+    description: A Helm chart for Kubernetes
+    digest: 1750cc730bafd2100c6f4c4c34bb0d8972b1256527a3c1cebab25b09fd1e8147
+    name: test
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/test-2020.05.29-DEV02/test-2020.05.29-DEV02.tgz
+    version: 2020.05.29-DEV02
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2020-05-30T12:04:29.297069572Z"
     description: A Helm chart for Kubernetes
     digest: 2a9176581c3f221f2bd9d8a7f469a633c71e7de3426a6afa4352833ab3cc4efe
