@@ -158,4 +158,14 @@ entries:
     urls:
     - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/deployment-2020.05.29-DEV03-0.1.0/deployment-2020.05.29-DEV03-0.1.0.tgz
     version: 0.1.0
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-30T12:04:29.297069572Z"
+    description: A Helm chart for Kubernetes
+    digest: 2a9176581c3f221f2bd9d8a7f469a633c71e7de3426a6afa4352833ab3cc4efe
+    name: test
+    urls:
+    - https://github.com/harikrishnamopuri/my-helm-charts/releases/download/test-2020.05.29-DEV01/test-2020.05.29-DEV01.tgz
+    version: 2020.05.29-DEV01
 generated: "2020-05-15T03:39:55.420152363Z"
